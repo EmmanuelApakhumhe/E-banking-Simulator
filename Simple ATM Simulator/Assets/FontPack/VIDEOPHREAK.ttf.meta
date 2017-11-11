@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 02f8a512db7c6a443a6baa1cc55b4326
+timeCreated: 1507981679
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Videophreak
+  fontNames:
+  - Videophreak
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

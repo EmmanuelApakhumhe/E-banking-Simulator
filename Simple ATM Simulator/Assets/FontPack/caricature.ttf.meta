@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b6c40150e5336fa4f98477d785f8f727
+timeCreated: 1507981682
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: caricature
+  fontNames:
+  - caricature
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

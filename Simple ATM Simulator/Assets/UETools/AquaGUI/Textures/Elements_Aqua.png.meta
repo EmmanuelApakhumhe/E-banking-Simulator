@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 57f6c2f1c80b7fc49be6faa62213b054
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Item
+    21300002: Item_Base
+    21300004: Popup
+    21300006: Popup_Base
+    21300008: Popup_Highlights
+    21300010: Radio
+    21300012: Radio_Base
+    21300014: Resource
+    21300016: Resource_Base
+    21300018: Resource_Fill
+    21300020: Resource_Highlights
+    21300022: Ribbon
+    21300024: Ribbon_Base
+    21300026: Ribbon_Highlights
+    21300028: Scrollbar_Base
+    21300030: Scrollbar_Handle
+    21300032: Star
+    21300034: Star_Base
+    21300036: Window
+    21300038: Window_Small
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: 54
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: Web
+    maxTextureSize: 4096
+    textureFormat: 5
+    compressionQuality: 50
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: 33
+    compressionQuality: 100
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: 54
+    compressionQuality: 100
+  spriteSheet:
+    sprites:
+    - name: Item
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 832
+        width: 204
+        height: 187
+      alignment: 9
+      pivot: {x: .495098025, y: .513368964}
+      border: {x: 105, y: 96, z: 97, w: 89}
+    - name: Item_Base
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1031
+        width: 226
+        height: 208
+      alignment: 9
+      pivot: {x: .495575219, y: .509615362}
+      border: {x: 116, y: 106, z: 108, w: 100}
+    - name: Popup
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1639
+        width: 873
+        height: 397
+      alignment: 9
+      pivot: {x: .497136325, y: .526448369}
+      border: {x: 432, y: 197, z: 440, w: 199}
+    - name: Popup_Base
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 693
+        width: 726
+        height: 288
+      alignment: 9
+      pivot: {x: .508264482, y: .506944418}
+      border: {x: 367, y: 134, z: 358, w: 153}
+    - name: Popup_Highlights
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1251
+        width: 855
+        height: 376
+      alignment: 9
+      pivot: {x: .499415219, y: .5}
+      border: {x: 425, y: 176, z: 429, w: 199}
+    - name: Radio
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1808
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 48, y: 48, z: 48, w: 48}
+    - name: Radio_Base
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1918
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 58, y: 58, z: 58, w: 58}
+    - name: Resource
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 636
+        width: 508
+        height: 184
+      alignment: 9
+      pivot: {x: .498031497, y: .532608688}
+      border: {x: 252, y: 97, z: 254, w: 85}
+    - name: Resource_Base
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 30
+        width: 449
+        height: 125
+      alignment: 9
+      pivot: {x: .496659249, y: .495999992}
+      border: {x: 222, y: 61, z: 225, w: 62}
+    - name: Resource_Fill
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 499
+        width: 449
+        height: 125
+      alignment: 9
+      pivot: {x: .496659249, y: .495999992}
+      border: {x: 222, y: 61, z: 225, w: 62}
+    - name: Resource_Highlights
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 510
+        width: 496
+        height: 171
+      alignment: 9
+      pivot: {x: .5, y: .497076035}
+      border: {x: 247, y: 84, z: 247, w: 85}
+    - name: Ribbon
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 993
+        width: 740
+        height: 246
+      alignment: 9
+      pivot: {x: .497297287, y: .520325184}
+      border: {x: 367, y: 98, z: 371, w: 146}
+    - name: Ribbon_Base
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 617
+        width: 655
+        height: 177
+      alignment: 9
+      pivot: {x: .49770993, y: .485875696}
+      border: {x: 325, y: 56, z: 328, w: 119}
+    - name: Ribbon_Highlights
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 806
+        width: 732
+        height: 236
+      alignment: 9
+      pivot: {x: .498633891, y: .5}
+      border: {x: 364, y: 88, z: 366, w: 146}
+    - name: Scrollbar_Base
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1542
+        width: 70
+        height: 254
+      alignment: 9
+      pivot: {x: .514285743, y: .5}
+      border: {x: 31, y: 118, z: 38, w: 135}
+    - name: Scrollbar_Handle
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1818
+        width: 36
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 14, y: 31, z: 21, w: 56}
+    - name: Star
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 167
+        width: 419
+        height: 438
+      alignment: 9
+      pivot: {x: .496420056, y: .509132445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Star_Base
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 78
+        width: 402
+        height: 420
+      alignment: 9
+      pivot: {x: .49502489, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1054
+        width: 978
+        height: 982
+      alignment: 9
+      pivot: {x: .497955024, y: .508146644}
+      border: {x: 486, y: 498, z: 490, w: 482}
+    - name: Window_Small
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 113
+        width: 492
+        height: 492
+      alignment: 9
+      pivot: {x: .497967482, y: .508130074}
+      border: {x: 249, y: 250, z: 246, w: 248}
+  spritePackingTag: 
+  userData: 

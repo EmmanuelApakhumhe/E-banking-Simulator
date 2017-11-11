@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3f6f2459094b8e548958b62494fdf16b
+timeCreated: 1507981680
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dragon Ball
+  fontNames:
+  - Dragon Ball
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
